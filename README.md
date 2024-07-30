@@ -1,25 +1,32 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Mi nombre es Santiago.
 
-Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en [tu especialidad] y tengo experiencia en [tus habilidades principales].
+Soy un desarrollador interesado en aprender lo máximo posible sobre la tecnología y la programación. Me especializo en el desarrollo Front-end.
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 Actualmente estoy aprendiendo y utilizando
 
-- [Tecnología o lenguaje de programación que estás aprendiendo]
-- [Otro objetivo de aprendizaje]
+- JavaScript | PHP
+- Next.js | React | Bootstrap | Material UI | 
+
+## 🕶️ Me encantaría especializarme en un futuro sobre
+
+- Figma | Phyton
 
 ## 💼 Experiencia profesional
 
-- [Tu puesto y empresa actual]
-- [Puestos anteriores y empresas]
+- Atencion al cliente y gestión de pagos - Rossetti Deportes.
+- sep. 2021 - dic. 2023
+
 
 ## 🚀 Proyectos
 
-- [Proyecto destacado 1](enlace al proyecto)
-- [Proyecto destacado 2](enlace al proyecto)
+- LunchUp! https://github.com/LaunchUP-INC
+- Pomodoro timer https://github.com/santiagoHeredia9/PomodoroTimer
 
 ## 📫 Cómo contactarme
 
-- [Correo electrónico](mailto:tu-email@example.com)
-- [LinkedIn](enlace a tu perfil de LinkedIn)
+- santiagoherediabrandolini@gmail.com(mailto:santiagoherediabrandolini@gmail.com)
+- www.linkedin.com/in/santiagohbwk19
 
-¡Gracias por visitar mi perfil!
+¡Gracias por visitar mi perfil! <3
+
+
