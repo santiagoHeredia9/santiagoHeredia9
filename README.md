@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**santiagoHeredia9/santiagoHeredia9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en [tu especialidad] y tengo experiencia en [tus habilidades principales].
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Tecnología o lenguaje de programación que estás aprendiendo]
+- [Otro objetivo de aprendizaje]
+
+## 💼 Experiencia profesional
+
+- [Tu puesto y empresa actual]
+- [Puestos anteriores y empresas]
+
+## 🚀 Proyectos
+
+- [Proyecto destacado 1](enlace al proyecto)
+- [Proyecto destacado 2](enlace al proyecto)
+
+## 📫 Cómo contactarme
+
+- [Correo electrónico](mailto:tu-email@example.com)
+- [LinkedIn](enlace a tu perfil de LinkedIn)
+
+¡Gracias por visitar mi perfil!
