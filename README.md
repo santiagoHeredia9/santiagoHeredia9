@@ -21,6 +21,7 @@ Soy un desarrollador interesado en aprender lo máximo posible sobre la tecnolog
 
 - LunchUp! https://github.com/LaunchUP-INC
 - Pomodoro timer https://github.com/santiagoHeredia9/PomodoroTimer
+- PadelLocura https://github.com/santiagoHeredia9/PadelLocura
 
 ## 📫 Cómo contactarme
 
